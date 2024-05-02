@@ -1,0 +1,32 @@
+body {
+    background-image: url(img/R-C.jpg);
+}
+.login {
+    width: 300px;
+    height: 300px;
+    margin: 200px auto;
+    /* border: 1px solid pink; */
+    text-align: center;
+    color: blueviolet;
+    font-weight: 700;
+    background-color: rgba(255, 255, 255, 0.3);
+    
+}
+.login_mima ,
+.login_zh{
+    margin-top: 20px;
+    border-radius: 15px;
+    padding-left: 10px;
+    
+}
+.a {
+    display: inline-block;
+    margin-top: 60px;
+    width:100px ;
+    height: 30px;
+    line-height: 30px;
+    background-color: white;
+    text-decoration: none;
+    /* color: black; */
+
+}
